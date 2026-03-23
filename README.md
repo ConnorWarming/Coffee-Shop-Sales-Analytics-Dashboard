@@ -28,10 +28,10 @@ python Coffee Shop Analytics Dashboard.py
 ![Dashboard](Dashboard.png)
 
 ### Beverage Filter
-![Beverage Filter](Filter Beverage.png)
+![Beverage Filter](Filter_Beverage.png)
 
 ### Food Filter
-![Food Filter](Filter Food.png)
+![Food Filter](Filter_Food.png)
 
 ## Author
 Connor Warming
