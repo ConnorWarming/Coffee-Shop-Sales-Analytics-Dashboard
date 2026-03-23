@@ -1,21 +1,15 @@
-
----
-
-# Coffee Shop Sales Analytics Dashboard
-
-```markdown
-# Coffee Shop Sales Analytics Dashboard
+# Coffee Shop Analytics Dashboard
 
 ## Overview
-A Python-based analytics dashboard that processes and visualizes coffee shop sales data. It allows users to filter data, analyze trends, and generate insights using interactive charts.
+A Python-based dashboard for analyzing coffee shop sales data with filtering, visualization, and statistical insights.
 
 ## Features
-- Load and clean CSV sales data
-- Filter by category and date range
-- Revenue and product performance analysis
-- Statistical summaries
-- Data visualization (charts)
-- Export filtered data to CSV
+- Load and clean CSV data
+- Filter by category and date
+- Revenue analysis
+- Product performance tracking
+- Data visualization
+- Export filtered data
 
 ## Technologies Used
 - Python
@@ -25,6 +19,19 @@ A Python-based analytics dashboard that processes and visualizes coffee shop sal
 - Matplotlib
 
 ## How to Run
-```bash
-pip install pandas numpy matplotlib
+pip install pandas numpy matplotlib  
 python Coffee Shop Analytics Dashboard.py
+
+## Screenshots
+
+### Dashboard
+![Dashboard](Dashboard.png)
+
+### Beverage Filter
+![Beverage Filter](Filter Beverage.png)
+
+### Food Filter
+![Food Filter](Filter Food.png)
+
+## Author
+Connor Warming
